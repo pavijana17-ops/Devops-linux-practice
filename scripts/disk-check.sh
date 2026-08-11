@@ -12,7 +12,7 @@ if [ "$Disk_usage" -ge 80 ]; then
 echo "status: Warning - disk usage is high!"
 
 else
-echo "status:ok"
+echo "status:ok - Disk usage is healthy"
 
 fi
 
